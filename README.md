@@ -25,10 +25,12 @@ string decodeddata = bs.Decode(data);
 ## Ekran Görüntüleri
 
 Kodlama (Farklı gizli anahtarlarla)
+
 ![Kodlama](https://github.com/beytullahakyuz/securebase-java/blob/main/screenshots/en_1.png)
 ![Kodlama](https://github.com/beytullahakyuz/securebase-java/blob/main/screenshots/en_2.png)
 
 Kod çözme
+
 ![Kod çözme](https://github.com/beytullahakyuz/securebase-java/blob/main/screenshots/en_1_decoding.png)
 ![Kod çözme](https://github.com/beytullahakyuz/securebase-java/blob/main/screenshots/en_2_decoding.png)
 
@@ -61,9 +63,11 @@ string decodeddata = bs.Decode(data);
 ## Screenshots
 
 Encoding (Different secret keys)
+
 ![Encoding](https://github.com/beytullahakyuz/securebase-dotnet/blob/main/screenshots/en_1.png)
 ![Encoding](https://github.com/beytullahakyuz/securebase-dotnet/blob/main/screenshots/en_2.png)
 
 Decoding
+
 ![Decoding](https://github.com/beytullahakyuz/securebase-dotnet/blob/main/screenshots/en_1_decoding.png)
 ![Decoding](https://github.com/beytullahakyuz/securebase-dotnet/blob/main/screenshots/en_2_decoding.png)
