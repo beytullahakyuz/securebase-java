@@ -161,7 +161,7 @@ public final class SecureBase implements AutoCloseable {
             }
             return decodedData;
         } catch (Exception e) {
-            throw new Exception(e.getMessage(), e);
+            throw new Exception("Invalid data or secret key!", e);
         }
     }
     
